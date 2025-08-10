@@ -1,4 +1,11 @@
-# Mantine Next.js template
+# ⚠️ [Archived] ⚠️ Mantine Next.js template
+
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> - **Archived**: 2025-08-10 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive reason**: moved on to more focused agentic AI development
+> - **Further inquries**: connect on [linkedin.com/in/keminghe](https://www.linkedin.com/in/keminghe)
 
 This is a template for [Next.js](https://nextjs.org/) app router + [Mantine](https://mantine.dev/).
 If you want to use pages router instead, see [next-pages-template](https://github.com/mantinedev/next-pages-template).
